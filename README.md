@@ -18,11 +18,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=divyanshu-devlab&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=divyanshu-devlab&icon=0&color=10)](https://visitcount.itsvg.in)
-
-  ## 💰 If you feel like it, I wouldn't say no :)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Speedway17) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 If you feel like it, I wouldn't say no :)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Speedway17) 
