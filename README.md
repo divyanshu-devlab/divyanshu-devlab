@@ -1,4 +1,4 @@
-# 🤔 Sooo who am I?
+# 🤔 So who am I?
 (</ Hey! I'm Divyanshu 👋<br><br>🎓 1st year B.Tech CSE student<br>🖥️ PC enthusiast — hardware, software, if it's got a motherboard I'm into it<br>📚 To-Master: Java, C, C++, HTML/CSS<br><br>🔧 What I'm into:<br>- Building and messing with software and computer hardware<br>- Learning core programming languages from the ground up<br>- Figuring out how computers actually work, not just how to use them<br><br>🚀 Currently building my foundation in DSA and web basics. />)
 
 
