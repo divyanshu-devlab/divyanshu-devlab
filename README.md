@@ -19,4 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=divyanshu-devlab&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ## 💰 If you feel like it, I wouldn't say no :)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Speedway17) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Speedway17)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/divyanshushankar) 
