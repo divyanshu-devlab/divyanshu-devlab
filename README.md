@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/listening_to-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
-<h1 align="center">Hey there, I'm Divyanshu 👋</h1>
+<h1 align="center"> Hey there, I'm Divyanshu 👋</h1>
 
 <p align="center">
   🎓 1st year B.Tech CSE student<br>
