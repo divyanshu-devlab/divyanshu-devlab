@@ -1,8 +1,10 @@
+<h1 align="center">👋 Hey there, I'm Divyanshu</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-43b581?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/playing-VSC-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/playing-Antigrv-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/coding-Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/listening_to-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/music-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
 <p align="center">
@@ -21,6 +23,7 @@
 <p align="center">
   🚀 Currently building my foundation in DSA and web basics
 </p>
+
 ## 📱 You can talk to me via:
 
 <p align="center">
@@ -31,7 +34,7 @@
   <a href="mailto:aditindev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-# 💻 My Future Tech Stack:
+## 💻 My Future Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -65,7 +68,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=divyanshu-devlab&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
@@ -75,6 +78,18 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=divyanshu-devlab&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=divyanshu-devlab&theme=neon&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=divyanshu-devlab&limit=5&theme=neon&combine_all_yearly_contributions=true" />
 </p>
 
 ## 💰 If you feel like it, I wouldn't say no :)
