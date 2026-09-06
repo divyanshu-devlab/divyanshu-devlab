@@ -5,8 +5,24 @@
   <img src="https://img.shields.io/badge/listening_to-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
-</> Hey! I'm Divyanshu 👋<br><br>🎓 1st year B.Tech CSE student<br>🖥️ PC enthusiast — hardware, software, if it's got a motherboard I'm into it<br>📚 To-Master: Java, C, C++, HTML/CSS<br><br>🔧 What I'm into:<br>- Building and messing with software and computer hardware<br>- Learning core programming languages from the ground up<br>- Figuring out how computers actually work, not just how to use them<br><br>🚀 Currently building my foundation in DSA and web basics.
+<h1 align="center">Hey there, I'm Divyanshu 👋</h1>
 
+<p align="center">
+  🎓 1st year B.Tech CSE student<br>
+  🖥️ PC enthusiast — hardware, software, if it's got a motherboard I'm into it<br>
+  📚 To-Master: Java, C, C++, HTML/CSS
+</p>
+
+<p align="center">
+  🔧 <b>What I'm into:</b><br>
+  Building and messing with software and computer hardware<br>
+  Learning core programming languages from the ground up<br>
+  Figuring out how computers actually work, not just how to use them
+</p>
+
+<p align="center">
+  🚀 Currently building my foundation in DSA and web basics
+</p>
 ## 📱 You can talk to me via:
 
 <p align="center">
