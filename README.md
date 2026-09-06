@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/currently-online-43b581?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/playing-Antigravity-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/coding-Java-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/listening_to-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
+
+
 </> Hey! I'm Divyanshu 👋<br><br>🎓 1st year B.Tech CSE student<br>🖥️ PC enthusiast — hardware, software, if it's got a motherboard I'm into it<br>📚 To-Master: Java, C, C++, HTML/CSS<br><br>🔧 What I'm into:<br>- Building and messing with software and computer hardware<br>- Learning core programming languages from the ground up<br>- Figuring out how computers actually work, not just how to use them<br><br>🚀 Currently building my foundation in DSA and web basics.
 
 ## 📱 You can talk to me via:
@@ -10,12 +18,6 @@
   <a href="mailto:aditindev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/currently-online-43b581?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/playing-Antigravity-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/coding-Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/listening_to-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
 # 💻 My Future Tech Stack:
 
 <p align="center">
