@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-43b581?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/playing-Valorant-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/playing-Antigravity-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/coding-Java-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/listening_to-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
