@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  🎓 1st year B.Tech CSE student<br>
-  🖥️ PC enthusiast — hardware, software, if it's got a motherboard I'm into it<br>
+  🎓 B.Tech CSE student<br>
+  🖥️ PC enthusiast — hardware, software, if it's related to computer I am into it.<br>
   📚 To-Master: Java, C, C++, HTML/CSS
 </p>
 
