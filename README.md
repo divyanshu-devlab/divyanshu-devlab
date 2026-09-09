@@ -27,7 +27,7 @@
 ## 📱 You can talk to me via:
 
 <p align="center">
-  <a href="https://discord.gg/fy94NPeBd"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" /></a>
+  <a href="https://discord.gg/fy94NPeBd"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/devlabs17divyanshu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/divyanshu-shankar-99984342b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@devlabflow"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
