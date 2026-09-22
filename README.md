@@ -3,9 +3,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Arfazrll&label=Profile%20Views&color=00FF00&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Divyanshu&label=Profile%20Views&color=00FF00&style=flat-square" alt="Profile Views"/>
 
-<h1>Syahril Arfian Almazril</h1>
+<h1>Divyanshu Shankar</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems)
 
