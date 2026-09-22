@@ -1,5 +1,20 @@
 <h1 align="center">👋 Hey there, I'm Divyanshu</h1>
 
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Arfazrll&label=Profile%20Views&color=00FF00&style=flat-square" alt="Profile Views"/>
+
+<h1>Syahril Arfian Almazril</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems)
+
+<img src="https://github.com/Arfazrll/Arfazrll/blob/main/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-43b581?style=for-the-badge" />
   <img src="https://img.shields.io/badge/using-AGRVTY-red?style=for-the-badge" />
